@@ -1,0 +1,8 @@
+<form action="/chatbot" method="POST">
+  <input name="message" placeholder="Ask HER anything..." required>
+  <button type="submit">Send</button>
+</form>
+{% if user_message %}
+  <p><b>You:</b> {{ user_message }}</p>
+  <p><b>HER:</b> {{ reply }}</p>
+{% endif %}

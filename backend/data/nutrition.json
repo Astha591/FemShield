@@ -1,0 +1,38 @@
+{
+  "pcos": {
+    "diet": [
+      "Focus on low GI carbs (e.g., whole grains, legumes)",
+      "Increase protein intake (eggs, lean meat, Greek yogurt)",
+      "Include foods rich in omega-3 fatty acids"
+    ],
+    "exercise": [
+      "Regular aerobic exercise (30 mins, 3–5 times/week)",
+      "Yoga and Pilates for hormonal balance",
+      "Strength training twice a week"
+    ]
+  },
+  "thyroid": {
+    "diet": [
+      "Include iodine-rich foods (e.g., seafood, dairy)",
+      "Avoid raw cruciferous vegetables (in excess)",
+      "Increase intake of selenium-rich foods (e.g., Brazil nuts)"
+    ],
+    "exercise": [
+      "Low-impact aerobic exercises",
+      "Regular walks and light strength training",
+      "Yoga and breathing exercises"
+    ]
+  },
+  "pregnancy": {
+    "diet": [
+      "Increase folate-rich foods (leafy greens, legumes)",
+      "Get enough iron, calcium, and protein",
+      "Avoid raw fish and unpasteurized products"
+    ],
+    "exercise": [
+      "Light walking",
+      "Prenatal yoga",
+      "Low-impact swimming"
+    ]
+  }
+}

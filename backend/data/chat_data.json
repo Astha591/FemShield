@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "keywords": ["pcos", "irregular periods", "cyst"],
+      "reply": "PCOS is a hormonal disorder. Maintain a balanced diet, exercise regularly, and consult a gynecologist for personalized care."
+    },
+    {
+      "keywords": ["breast cancer", "lumps", "breast pain"],
+      "reply": "If you notice a lump or discomfort in your breasts, it’s important to consult a doctor promptly for an examination and possibly a mammogram."
+    },
+    {
+      "keywords": ["nutrition", "diet", "food"],
+      "reply": "A balanced diet rich in vegetables, lean protein, and whole grains can help maintain hormonal balance. Stay hydrated and limit processed foods."
+    },
+    {
+      "keywords": ["pregnancy", "conception", "fertility"],
+      "reply": "For pregnancy or fertility concerns, a doctor can assess your hormonal levels, suggest lifestyle changes, and recommend supplements like folic acid."
+    }
+  ]
+}
